@@ -5,7 +5,7 @@ Algunos Retos ;D
 Guarda tus Flags Hasta el Final de la Charla.
 Cualquier Duda Problema Contactar a los Creadores :P
 
-Telegram:
+**Telegram:**
 @Antares
 @Backd
 @KutBit                                              
