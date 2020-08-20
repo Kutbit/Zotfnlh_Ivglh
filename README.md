@@ -9,4 +9,4 @@ Telegram:
 @Antares
 @Backd
 @KutBit                                              
-![Level[0]Sec CTF](https://cdn.discordapp.com/icons/725486068769620069/1fabf1257fbe7be939b599ff4c9ab18b.webp?size=508)
+![Level[0]Sec CTF](https://cdn.discordapp.com/icons/725486068769620069/1fabf1257fbe7be939b599ff4c9ab18b.webp?size=256)
