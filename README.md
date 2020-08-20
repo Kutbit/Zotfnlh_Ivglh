@@ -8,4 +8,5 @@ Cualquier Duda Problema Contactar a los Creadores :P
 Telegram:
 @Antares
 @Backd
-@KutBit                                              ![Level[0]Sec CTF](https://cdn.discordapp.com/icons/725486068769620069/1fabf1257fbe7be939b599ff4c9ab18b.webp?size=128)
+@KutBit                                              
+![Level[0]Sec CTF](https://cdn.discordapp.com/icons/725486068769620069/1fabf1257fbe7be939b599ff4c9ab18b.webp)
